@@ -1,0 +1,22 @@
+✓ main CI workflow · 30711690841
+Triggered via push about 17 minutes ago
+
+JOBS
+✓ ci in 26s (ID 91400173696)
+  ✓ Set up job
+  ✓ Initialize containers
+  ✓ Checkout
+  ✓ Install dependencies
+  ✓ Lint with flake8
+  ✓ Run unit tests with nose
+  ✓ Post Checkout
+  ✓ Stop containers
+  ✓ Complete job
+
+ANNOTATIONS
+! Node.js 20 is deprecated. The following actions target Node.js 20 but are being forced to run on Node.js 24: actions/checkout@v3.
+
+ci: .github#2
+
+View this run on GitHub:
+https://github.com/mussab-riaz/ci-cd-final-project/actions/runs/30711690841
